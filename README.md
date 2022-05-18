@@ -25,6 +25,9 @@ A Facebook-like Restful style social web application that allows users to create
  ## Feature
  1.React and NextJs(For Server Side Rendered Pages) for Frontend and Express with Node on the backend. Applying Socket io for Realtime connection between multiple clients for messaging.
  2.Creating complex & interlinked MongoDB Models for storing the info of users, messages they send and receive, their notifications, following and followers of a user,. We are going to store everything in our database.
+ 
+
+
 
 
 
