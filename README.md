@@ -21,6 +21,7 @@ A Facebook-like Restful style social web application that allows users to create
   3. express-session
   4. mongoose
   5.Axios
+  
  
  ## Feature
  1.React and NextJs(For Server Side Rendered Pages) for Frontend and Express with Node on the backend. Applying Socket io for Realtime connection between multiple clients for messaging.
